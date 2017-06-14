@@ -1,4 +1,4 @@
-#Code of conduct
+# Code of conduct
 
 **All people who choose to be a part of our community are required to agree with the following code of conduct.**
 
